@@ -1,5 +1,3 @@
-# Reproducible Research:  Assessment 1
-
 ## Loading and preprocessing the data
 ```{r loaddata}
 unzip(zipfile="activity.zip")
